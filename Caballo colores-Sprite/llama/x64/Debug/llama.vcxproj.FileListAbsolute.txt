@@ -1,0 +1,6 @@
+C:\Users\reyiez\Desktop\Ciclo-1-y-2-master\Vol1\llama\llama\x64\Debug\llama.vcxproj.AssemblyReference.cache
+C:\Users\reyiez\Desktop\Ciclo-1-y-2-master\Vol1\llama\llama\x64\Debug\llama.MyForm.resources
+C:\Users\reyiez\Desktop\Ciclo-1-y-2-master\Vol1\llama\llama\x64\Debug\llama.vcxproj.GenerateResource.cache
+C:\Users\reyiez\Downloads\llama\llama\x64\Debug\llama.vcxproj.AssemblyReference.cache
+C:\Users\reyiez\Downloads\llama\llama\x64\Debug\llama.MyForm.resources
+C:\Users\reyiez\Downloads\llama\llama\x64\Debug\llama.vcxproj.GenerateResource.cache

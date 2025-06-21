@@ -1,0 +1,3 @@
+C:\Users\DYLAND\source\repos\llama\llama\Debug\llama.vcxprojAssemblyReference.cache
+C:\Users\DYLAND\source\repos\llama\llama\Debug\llama.MyForm.resources
+C:\Users\DYLAND\source\repos\llama\llama\Debug\llama.vcxproj.GenerateResource.cache
