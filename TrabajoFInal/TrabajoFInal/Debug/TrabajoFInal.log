@@ -1,0 +1,45 @@
+﻿  MyForm.cpp
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\Entidad.h(106,47): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\Entidad.h(106,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\Bala.h(15,1): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\AdversarioAsintomatico.h(14,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\BalaEemigo.h(30,11): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\BalaEemigo.h(31,11): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\AdversarioSaludable.h(16,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\AdversarioSaludable.h(25,1): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\AdversarioSaludable.h(80,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\AdversarioSaludable.h(81,25): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\Ambulancia.h(60,10): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\Ambulancia.h(61,10): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\Policia.h(66,10): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\Policia.h(67,10): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\Control.h(44,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\Control.h(45,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\Control.h(62,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\MyForm.h(553,96): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\MyForm.h(553,69): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  Source.cpp
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\Entidad.h(106,47): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\Entidad.h(106,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\Bala.h(15,1): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\AdversarioAsintomatico.h(14,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\BalaEemigo.h(30,11): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\BalaEemigo.h(31,11): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\AdversarioSaludable.h(16,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\AdversarioSaludable.h(25,1): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\AdversarioSaludable.h(80,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\AdversarioSaludable.h(81,25): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\Ambulancia.h(60,10): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\Ambulancia.h(61,10): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\Policia.h(66,10): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\Policia.h(67,10): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\Control.h(44,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\Control.h(45,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\Control.h(62,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\MyForm.h(553,96): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\MyForm.h(553,69): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  Generando código...
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\BalaEemigo.h(89): warning C4715: 'BalasEnemigos::areas': no todas las rutas de acceso de control devuelven un valor
+C:\Users\DYLAND\Desktop\TrabajoFInal\TrabajoFInal\BalaEemigo.h(89): warning C4715: 'BalasEnemigos::areas': no todas las rutas de acceso de control devuelven un valor
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TrabajoFInal.vcxproj -> C:\Users\DYLAND\Desktop\TrabajoFInal\Debug\TrabajoFInal.exe

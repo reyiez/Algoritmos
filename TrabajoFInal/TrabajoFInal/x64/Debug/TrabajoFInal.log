@@ -1,0 +1,165 @@
+﻿  MyForm.cpp
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Entidad.h(106,47): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Entidad.h(106,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Bala.h(15,12): warning C4305: '=': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\AdversarioAsintomatico.h(13,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\AdversarioAsintomatico.h(101,33): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\BalaEemigo.h(30,11): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\BalaEemigo.h(31,11): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\AdversarioSaludable.h(16,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\AdversarioSaludable.h(25,12): warning C4305: '=': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\AdversarioSaludable.h(78,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\AdversarioSaludable.h(79,25): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\AdversarioSaludable.h(132,29): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Ambulancia.h(60,10): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Ambulancia.h(61,10): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Ambulancia.h(98,26): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Policia.h(66,10): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Policia.h(67,10): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Policia.h(135,23): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Control.h(44,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Control.h(45,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Control.h(62,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\MyForm.h(513,20): warning C4101: 'time': variable local sin referencia
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\MyForm.h(513,14): warning C4101: 'vida': variable local sin referencia
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\MyForm.h(574,96): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\MyForm.h(574,69): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\MyForm.h(587,3): error C2059: error de sintaxis: 'if'
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\MyForm.h(588,3): error C2143: error de sintaxis: falta ';' delante de '{'
+  (compilando archivo de origen "MyForm.cpp")
+  
+  Source.cpp
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Entidad.h(106,47): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Entidad.h(106,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Bala.h(15,12): warning C4305: '=': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\AdversarioAsintomatico.h(13,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\AdversarioAsintomatico.h(101,33): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\BalaEemigo.h(30,11): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\BalaEemigo.h(31,11): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\AdversarioSaludable.h(16,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\AdversarioSaludable.h(25,12): warning C4305: '=': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\AdversarioSaludable.h(78,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\AdversarioSaludable.h(79,25): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\AdversarioSaludable.h(132,29): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Ambulancia.h(60,10): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Ambulancia.h(61,10): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Ambulancia.h(98,26): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Policia.h(66,10): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Policia.h(67,10): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Policia.h(135,23): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Control.h(44,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Control.h(45,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\Control.h(62,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\MyForm.h(513,20): warning C4101: 'time': variable local sin referencia
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\MyForm.h(513,14): warning C4101: 'vida': variable local sin referencia
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\MyForm.h(574,96): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\MyForm.h(574,69): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\MyForm.h(587,3): error C2059: error de sintaxis: 'if'
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\reyiez\Documents\Ciclo-1-y-2-master\Vol2\TrabajoFInal\TrabajoFInal\MyForm.h(588,3): error C2143: error de sintaxis: falta ';' delante de '{'
+  (compilando archivo de origen "Source.cpp")
+  
+  Generando código...

@@ -1,0 +1,3 @@
+C:\Users\DYLAND\Desktop\TF_201920461\TrabajoFInal\TrabajoFInal\x64\Debug\TrabajoFInal.vcxprojAssemblyReference.cache
+C:\Users\DYLAND\Desktop\TF_201920461\TrabajoFInal\TrabajoFInal\x64\Debug\TrabajoFInal.MyForm.resources
+C:\Users\DYLAND\Desktop\TF_201920461\TrabajoFInal\TrabajoFInal\x64\Debug\TrabajoFInal.vcxproj.GenerateResource.cache
