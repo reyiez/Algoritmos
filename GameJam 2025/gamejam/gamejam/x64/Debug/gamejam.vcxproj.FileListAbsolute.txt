@@ -1,0 +1,32 @@
+C:\Users\VICTOR\source\repos\gamejam\gamejam\x64\Debug\gamejam.vcxproj.AssemblyReference.cache
+C:\Users\VICTOR\source\repos\gamejam\gamejam\x64\Debug\gamejam.MyForm.resources
+C:\Users\VICTOR\source\repos\gamejam\gamejam\x64\Debug\gamejam.vcxproj.GenerateResource.cache
+C:\Users\VICTOR\source\repos\gamejam\gamejam\x64\Debug\gamejam.Registro.resources
+C:\Users\VICTOR\source\repos\gamejam\gamejam\x64\Debug\gamejam.Instrucciones.resources
+C:\Users\VICTOR\source\repos\gamejam\gamejam\x64\Debug\gamejam.Creditos.resources
+C:\Users\VICTOR\source\repos\gamejam\gamejam\x64\Debug\gamejam.Juego.resources
+C:\Users\reyiez\Downloads\gamejam\gamejam\x64\Debug\gamejam.vcxproj.AssemblyReference.cache
+C:\Users\reyiez\Downloads\gamejam\gamejam\x64\Debug\gamejam.Creditos.resources
+C:\Users\reyiez\Downloads\gamejam\gamejam\x64\Debug\gamejam.Instrucciones.resources
+C:\Users\reyiez\Downloads\gamejam\gamejam\x64\Debug\gamejam.Juego.resources
+C:\Users\reyiez\Downloads\gamejam\gamejam\x64\Debug\gamejam.MyForm.resources
+C:\Users\reyiez\Downloads\gamejam\gamejam\x64\Debug\gamejam.Registro.resources
+C:\Users\reyiez\Downloads\gamejam\gamejam\x64\Debug\gamejam.vcxproj.GenerateResource.cache
+C:\Users\VICTOR\source\repos\gamejam\gamejam\x64\Debug\gamejam.Puntaje.resources
+C:\Users\reyiez\Downloads\gamejam\gamejam\x64\Debug\gamejam.Puntaje.resources
+C:\Users\VICTOR\source\repos\gamejam (2)\gamejam\gamejam\x64\Debug\gamejam.vcxproj.AssemblyReference.cache
+C:\Users\VICTOR\source\repos\gamejam (2)\gamejam\gamejam\x64\Debug\gamejam.Creditos.resources
+C:\Users\VICTOR\source\repos\gamejam (2)\gamejam\gamejam\x64\Debug\gamejam.Instrucciones.resources
+C:\Users\VICTOR\source\repos\gamejam (2)\gamejam\gamejam\x64\Debug\gamejam.Juego.resources
+C:\Users\VICTOR\source\repos\gamejam (2)\gamejam\gamejam\x64\Debug\gamejam.MyForm.resources
+C:\Users\VICTOR\source\repos\gamejam (2)\gamejam\gamejam\x64\Debug\gamejam.Puntaje.resources
+C:\Users\VICTOR\source\repos\gamejam (2)\gamejam\gamejam\x64\Debug\gamejam.Registro.resources
+C:\Users\VICTOR\source\repos\gamejam (2)\gamejam\gamejam\x64\Debug\gamejam.vcxproj.GenerateResource.cache
+C:\Users\reyiez\Downloads\gamejam (2)\gamejam\gamejam\x64\Debug\gamejam.vcxproj.AssemblyReference.cache
+C:\Users\reyiez\Downloads\gamejam (2)\gamejam\gamejam\x64\Debug\gamejam.Creditos.resources
+C:\Users\reyiez\Downloads\gamejam (2)\gamejam\gamejam\x64\Debug\gamejam.Instrucciones.resources
+C:\Users\reyiez\Downloads\gamejam (2)\gamejam\gamejam\x64\Debug\gamejam.Juego.resources
+C:\Users\reyiez\Downloads\gamejam (2)\gamejam\gamejam\x64\Debug\gamejam.MyForm.resources
+C:\Users\reyiez\Downloads\gamejam (2)\gamejam\gamejam\x64\Debug\gamejam.Puntaje.resources
+C:\Users\reyiez\Downloads\gamejam (2)\gamejam\gamejam\x64\Debug\gamejam.Registro.resources
+C:\Users\reyiez\Downloads\gamejam (2)\gamejam\gamejam\x64\Debug\gamejam.vcxproj.GenerateResource.cache

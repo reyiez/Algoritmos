@@ -1,0 +1,76 @@
+  gamejam.Creditos.resources - Embedded, ContainedInManifestFile, 
+  gamejam.Instrucciones.resources - Embedded, ContainedInManifestFile, 
+  gamejam.Juego.resources - Embedded, ContainedInManifestFile, 
+  gamejam.MyForm.resources - Embedded, ContainedInManifestFile, 
+  gamejam.Puntaje.resources - Embedded, ContainedInManifestFile, 
+  gamejam.Registro.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly gamejam, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Figura: AutoLayout, AnsiClass, Class, Public, Abstract, BeforeFieldInit
+    Void .ctor(Int32, Int32, Int32, System.Drawing.Color, Int32, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Dibujar(Graphics): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    mover(Int32, Int32): PrivateScope, Public, HideBySig
+    getX(): PrivateScope, Public, HideBySig
+    getY(): PrivateScope, Public, HideBySig
+    getAncho(): PrivateScope, Public, HideBySig
+    getAlto(): PrivateScope, Public, HideBySig
+    getValor(): PrivateScope, Public, HideBySig
+    getColor(): PrivateScope, Public, HideBySig
+    setValor(Int32): PrivateScope, Public, HideBySig
+    setColor(Color): PrivateScope, Public, HideBySig
+    colisionaCon(Figura): PrivateScope, Public, HideBySig
+    setTamano(Int32, Int32): PrivateScope, Public, HideBySig
+Class Circulo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Figura
+    Void .ctor(Int32, Int32, Int32, System.Drawing.Color): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Dibujar(Graphics): PrivateScope, Public, Virtual, HideBySig
+Class Cuadrado: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Figura
+    Void .ctor(Int32, Int32, Int32, System.Drawing.Color): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Dibujar(Graphics): PrivateScope, Public, Virtual, HideBySig
+Class Triangulo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Figura
+    Void .ctor(Int32, Int32, Int32, System.Drawing.Color): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Dibujar(Graphics): PrivateScope, Public, Virtual, HideBySig
+Class DatosJugador: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String nombrejugador : Public, Static
+    Int32 puntaje : Public, Static
+    System.Collections.Generic.List`1[System.String] nombres : Public, Static
+    System.Collections.Generic.List`1[System.Int32] puntajes : Public, Static
+Class gamejam.Juego: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class gamejam.Registro: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class gamejam.Instrucciones: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class gamejam.Creditos: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class gamejam.Puntajes: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class gamejam.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

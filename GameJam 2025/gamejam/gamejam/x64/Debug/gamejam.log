@@ -1,0 +1,21 @@
+﻿  MyForm.cpp
+C:\Users\reyiez\Downloads\gamejam (2)\gamejam\gamejam\Circulo.h(14,126): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Downloads\gamejam (2)\gamejam\gamejam\Circulo.h(14,118): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Downloads\gamejam (2)\gamejam\gamejam\Cuadrado.h(14,126): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Downloads\gamejam (2)\gamejam\gamejam\Cuadrado.h(14,118): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Downloads\gamejam (2)\gamejam\gamejam\Triangulo.h(23,126): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\reyiez\Downloads\gamejam (2)\gamejam\gamejam\Triangulo.h(23,118): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  gamejam.vcxproj -> C:\Users\reyiez\Downloads\gamejam (2)\gamejam\x64\Debug\gamejam.exe
