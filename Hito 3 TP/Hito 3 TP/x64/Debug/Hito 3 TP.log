@@ -1,0 +1,21 @@
+﻿  Hito 3 TP.cpp
+D:\c++\Hito 3 TP\Hito 3 TP\Juego.h(79,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "/Hito%203%20TP.cpp")
+  
+D:\c++\Hito 3 TP\Hito 3 TP\Juego.h(144,9): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/Hito%203%20TP.cpp")
+  
+D:\c++\Hito 3 TP\Hito 3 TP\Juego.h(302,13): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/Hito%203%20TP.cpp")
+  
+D:\c++\Hito 3 TP\Hito 3 TP\Juego.h(486,9): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/Hito%203%20TP.cpp")
+  
+D:\c++\Hito 3 TP\Hito 3 TP\Hito 3 TP.cpp(15,18): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/Hito%203%20TP.cpp")
+  
+D:\c++\Hito 3 TP\Hito 3 TP\Hito 3 TP.cpp(162,13): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/Hito%203%20TP.cpp")
+  
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Hito 3 TP.vcxproj -> D:\c++\Hito 3 TP\x64\Debug\Hito 3 TP.exe
